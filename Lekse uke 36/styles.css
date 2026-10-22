@@ -4,7 +4,6 @@ h1 {
     justify-content: flex-start;
     align-items: flex-end;
     gap: 30px;
-    margin: 10px;
 
 }
 
@@ -14,6 +13,5 @@ nav {
     justify-content: center;
     align-items: center;
     gap: 300px;
-    margin: 100px;
 
 }
